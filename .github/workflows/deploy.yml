@@ -36,7 +36,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5.5.1
         with:
-          images: deeramster/42-docker-final-main
+          images: rocketikman/42-docker-final-main
 
       - name: Build and push Docker Inage
         uses: docker/build-push-action@v5
