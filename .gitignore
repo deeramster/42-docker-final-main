@@ -9,6 +9,8 @@
 !go.mod
 !*.db
 
+!*yml
+
 !README.md
 !LICENSE
 !Dockerfile
